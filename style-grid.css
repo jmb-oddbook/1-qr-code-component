@@ -9,10 +9,10 @@ body {
     place-items: center;
 }
 
-main {
+.qr-component {
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
-    margin: 0 auto;
+    margin: 0;
     padding: 16px;
     max-width: 300px;
     box-shadow: 10px 10px 8px 5px hsl(220, 15%, 55%, 0.1);
